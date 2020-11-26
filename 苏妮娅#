@@ -1609,675 +1609,1196 @@ http://113.212.111.246:8080/hls/col2.m3u8
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="AIRIAL TV",Sony Wah
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonywah/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:708,SONY MAX 2
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonymax2/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1030,Sony Ten 3
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonyten3/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1028,Sony Ten 1 HD
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonyten1hd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1026,Sony Ten 3 HD
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1021,Republic TV
-#EXTVLCOPT:network-caching=1000
-https://ottr7.republicworld.com/liveorigin/republictv/master.m3u8?e=1619827193&h=36203cfff0fc796acff63fc209a31794
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="AIRIAL TV",COLORS CINEPLEX HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49550
+#EXTINF:-1,IN: COLORS FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1366
+#EXTINF:-1,IN: COLORS Gujarati
+http://iptvmedia.live:8080/test-b4fda5/9fee/145645
+#EXTINF:-1,IN: COLORS Gujarati Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/193126
+#EXTINF:-1,IN: COLORS Gujrati TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197947
+#EXTINF:-1,IN: COLORS Infinity HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/145644
+#EXTINF:-1,IN: COLORS Kannada Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/193117
+#EXTINF:-1,IN: COLORS Kannada HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193108
+#EXTINF:-1,IN: COLORS MARATHI
+http://iptvmedia.live:8080/test-b4fda5/9fee/82642
+#EXTINF:-1,IN: COLORS Oriya
+http://iptvmedia.live:8080/test-b4fda5/9fee/193130
+#EXTINF:-1,IN: COLORS Red
+http://iptvmedia.live:8080/test-b4fda5/9fee/145660
+#EXTINF:-1,IN: COLORS Rishtey
+http://iptvmedia.live:8080/test-b4fda5/9fee/49547
+#EXTINF:-1,IN: COLORS Super
+http://iptvmedia.live:8080/test-b4fda5/9fee/193118
+#EXTINF:-1,IN: COLORS Super Kannada TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197948
+#EXTINF:-1,IN: COLORS Tamil HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82590
+#EXTINF:-1,IN: COLORS TV INDIA
+http://iptvmedia.live:8080/test-b4fda5/9fee/192068
+#EXTINF:-1,IN: CTVN AKD Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/166385
+#EXTINF:-1,IN: D Tamil
+http://iptvmedia.live:8080/test-b4fda5/9fee/193208
+#EXTINF:-1,IN: DABANGG
+http://iptvmedia.live:8080/test-b4fda5/9fee/165800
+#EXTINF:-1,IN: Dangal
+http://iptvmedia.live:8080/test-b4fda5/9fee/82589
+#EXTINF:-1,IN: DAWN NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165790
+#EXTINF:-1,IN: DD Bangla
+http://iptvmedia.live:8080/test-b4fda5/9fee/45488
+#EXTINF:-1,IN: DD Bharati
+http://iptvmedia.live:8080/test-b4fda5/9fee/193040
+#EXTINF:-1,IN: DD Bihar
+http://iptvmedia.live:8080/test-b4fda5/9fee/193041
+#EXTINF:-1,IN: DD Chandana
+http://iptvmedia.live:8080/test-b4fda5/9fee/82593
+#EXTINF:-1,IN: DD Girnar
+http://iptvmedia.live:8080/test-b4fda5/9fee/145648
+#EXTINF:-1,IN: DD Girner
+http://iptvmedia.live:8080/test-b4fda5/9fee/82594
+#EXTINF:-1,IN: DD INDIA
+http://iptvmedia.live:8080/test-b4fda5/9fee/165806
+#EXTINF:-1,IN: DD Kashir
+http://iptvmedia.live:8080/test-b4fda5/9fee/193043
+#EXTINF:-1,IN: DD Kisan
+http://iptvmedia.live:8080/test-b4fda5/9fee/45473
+#EXTINF:-1,IN: DD Madhya Pradesh
+http://iptvmedia.live:8080/test-b4fda5/9fee/193044
+#EXTINF:-1,IN: DD Malayalam
+http://iptvmedia.live:8080/test-b4fda5/9fee/45499
+#EXTINF:-1,IN: DD National HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192197
+#EXTINF:-1,IN: DD NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/21668
+#EXTINF:-1,IN: DD North East
+http://iptvmedia.live:8080/test-b4fda5/9fee/193045
+#EXTINF:-1,IN: DD Odia
+http://iptvmedia.live:8080/test-b4fda5/9fee/193046
+#EXTINF:-1,IN: DD Podhigai
+http://iptvmedia.live:8080/test-b4fda5/9fee/193047
+#EXTINF:-1,IN: DD Punjabi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193048
+#EXTINF:-1,IN: DD Rajasthan
+http://iptvmedia.live:8080/test-b4fda5/9fee/193049
+#EXTINF:-1,IN: DD Retro
+http://iptvmedia.live:8080/test-b4fda5/9fee/192954
+#EXTINF:-1,IN: DD Sahyadri
+http://iptvmedia.live:8080/test-b4fda5/9fee/45479
+#EXTINF:-1,IN: DD Saptagiri
+http://iptvmedia.live:8080/test-b4fda5/9fee/193050
+#EXTINF:-1,IN: DD Sports
+http://iptvmedia.live:8080/test-b4fda5/9fee/56153
+#EXTINF:-1,IN: DD Uttar Pradesh
+http://iptvmedia.live:8080/test-b4fda5/9fee/193051
+#EXTINF:-1,IN: DD Yadagiri
+http://iptvmedia.live:8080/test-b4fda5/9fee/193055
+#EXTINF:-1,IN: DESI Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/49641
+#EXTINF:-1,IN: Desi Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/49618
+#EXTINF:-1,IN: Dhamaal
+http://iptvmedia.live:8080/test-b4fda5/9fee/82510
+#EXTINF:-1,IN: Dheeran TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51826
+#EXTINF:-1,IN: Dhinchaak
+http://iptvmedia.live:8080/test-b4fda5/9fee/192959
+#EXTINF:-1,IN: dia Today
+http://iptvmedia.live:8080/test-b4fda5/9fee/82521
+#EXTINF:-1,IN: dia TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82520
+#EXTINF:-1,IN: Dighvijay 24x7 News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193052
+#EXTINF:-1,IN: DIL SE
+http://iptvmedia.live:8080/test-b4fda5/9fee/165784
+#EXTINF:-1,IN: Dillagi TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/196128
+#EXTINF:-1,IN: Discovery HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82595
+#EXTINF:-1,IN Discovery HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/220515
+#EXTINF:-1,IN: Discovery HD World
+http://iptvmedia.live:8080/test-b4fda5/9fee/193053
+#EXTINF:-1,IN: Discovery HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/73792
+#EXTINF:-1,IN Discovery HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/220503
+#EXTINF:-1,IN: Discovery Kids
+http://iptvmedia.live:8080/test-b4fda5/9fee/192987
+#EXTINF:-1,IN Discovery Kids
+http://iptvmedia.live:8080/test-b4fda5/9fee/220579
+#EXTINF:-1,IN: Discovery KIDS HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/82683
+#EXTINF:-1,IN Discovery KIDS HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/220518
+#EXTINF:-1,IN: Discovery Science HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82596
+#EXTINF:-1,IN: Discovery Science HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/1363
+#EXTINF:-1,IN Discovery Science HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/220377
+#EXTINF:-1,IN: Discovery Turbo
+http://iptvmedia.live:8080/test-b4fda5/9fee/82597
+#EXTINF:-1,IN: Disha TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193001
+#EXTINF:-1,IN: Dishum
+http://iptvmedia.live:8080/test-b4fda5/9fee/165817
+#EXTINF:-1,IN: Disney
+http://iptvmedia.live:8080/test-b4fda5/9fee/192985
+#EXTINF:-1,IN: Disney Junior
+http://iptvmedia.live:8080/test-b4fda5/9fee/192990
+#EXTINF:-1,IN: Divyavani TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166373
+#EXTINF:-1,IN: Dunamis TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/165771
+#EXTINF:-1,IN: DW
+http://iptvmedia.live:8080/test-b4fda5/9fee/192072
+#EXTINF:-1,IN: DY 365
+http://iptvmedia.live:8080/test-b4fda5/9fee/193054
+#EXTINF:-1,IN: E24
+http://iptvmedia.live:8080/test-b4fda5/9fee/193086
+#EXTINF:-1,IN: EET TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51818
+#EXTINF:-1,IN: Ek Onkar
+http://iptvmedia.live:8080/test-b4fda5/9fee/193003
+#EXTINF:-1,IN: Ekta TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49608
+#EXTINF:-1,IN: Enter 10 TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197944
+#EXTINF:-1,IN: Enterr10
+http://iptvmedia.live:8080/test-b4fda5/9fee/193025
+#EXTINF:-1,IN: Epic
+http://iptvmedia.live:8080/test-b4fda5/9fee/192950
+#EXTINF:-1,IN: ETV Abhiruchi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193102
+#EXTINF:-1,IN: ETV Andhra Pradesh
+http://iptvmedia.live:8080/test-b4fda5/9fee/193193
+#EXTINF:-1,IN: ETV Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/193198
+#EXTINF:-1,IN: ETV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193103
+#EXTINF:-1,IN: ETV Life
+http://iptvmedia.live:8080/test-b4fda5/9fee/193201
+#EXTINF:-1,IN: ETV Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/193101
+#EXTINF:-1,IN: ETV Telengana
+http://iptvmedia.live:8080/test-b4fda5/9fee/193197
+#EXTINF:-1,IN: EUROSPORT HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192964
+#EXTINF:-1,IN: Fakt Marathi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193017
+#EXTINF:-1,IN: Fashion TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193184
+#EXTINF:-1,IN: Fastway TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49605
+#EXTINF:-1,IN: Fateh TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166370
+#EXTINF:-1,IN: First India Rajasthan
+http://iptvmedia.live:8080/test-b4fda5/9fee/193010
+#EXTINF:-1,IN: Flowers
+http://iptvmedia.live:8080/test-b4fda5/9fee/193148
+#EXTINF:-1,IN: FO WORLD CORONA
+http://iptvmedia.live:8080/test-b4fda5/9fee/197534
+#EXTINF:-1,IN: FOOD FOOD TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/1362
+#EXTINF:-1,IN: FOX Life HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193057
+#EXTINF:-1,IN: France 24
+http://iptvmedia.live:8080/test-b4fda5/9fee/192980
+#EXTINF:-1,IN: GABRU TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/165782
+#EXTINF:-1,IN: Gabruu TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49603
+#EXTINF:-1,IN: Gaunda Punjab TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49640
+#EXTINF:-1,IN: GDNS LUDHIANA
+http://iptvmedia.live:8080/test-b4fda5/9fee/49639
+#EXTINF:-1,IN: GEMINI Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/165794
+#EXTINF:-1,IN: Gemini TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193105
+#EXTINF:-1,IN: GEO NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/174169
+#EXTINF:-1,IN: Geo TV FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193646
+#EXTINF:-1,IN: Global Sanjh
+http://iptvmedia.live:8080/test-b4fda5/9fee/49617
+#EXTINF:-1,IN: GNN NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165807
+#EXTINF:-1,IN: Good Times
+http://iptvmedia.live:8080/test-b4fda5/9fee/192997
+#EXTINF:-1,IN: Goodnews TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/159106
+#EXTINF:-1,IN: GS TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/196130
+#EXTINF:-1,IN: GSTV GUJARATI
+http://iptvmedia.live:8080/test-b4fda5/9fee/196131
+#EXTINF:-1,IN: GUBRU TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49638
+#EXTINF:-1,IN: Gujarat Samachar TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193092
+#EXTINF:-1,IN: Gulistan News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193107
+#EXTINF:-1,IN: Gurbaani TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49647
+#EXTINF:-1,IN: Gurbani Healing
+http://iptvmedia.live:8080/test-b4fda5/9fee/82518
+#EXTINF:-1,IN: Harvest 24x7
+http://iptvmedia.live:8080/test-b4fda5/9fee/166374
+#EXTINF:-1,IN: Harvest TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166372
+#EXTINF:-1,IN: Harvest TV USA
+http://iptvmedia.live:8080/test-b4fda5/9fee/198220
+#EXTINF:-1,IN: HBO HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82603
+#EXTINF:-1,IN: Headlines Tripura
+http://iptvmedia.live:8080/test-b4fda5/9fee/193022
+#EXTINF:-1,IN: Hindu Dharmam
+http://iptvmedia.live:8080/test-b4fda5/9fee/193027
+#EXTINF:-1,IN: Hiru TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82519
+#EXTINF:-1,IN: History TV18 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192994
+#EXTINF:-1,IN: HM TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193056
+#EXTINF:-1,IN: HolyGod TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/60424
+#EXTINF:-1,IN: Hope Channel India
+http://iptvmedia.live:8080/test-b4fda5/9fee/159108
+#EXTINF:-1,IN: Housefull Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/165804
+#EXTINF:-1,IN: HULCHUL TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49630
+#EXTINF:-1,IN: HUM EUROPE
+http://iptvmedia.live:8080/test-b4fda5/9fee/168912
+#EXTINF:-1,IN: HUM Masala
+http://iptvmedia.live:8080/test-b4fda5/9fee/145658
+#EXTINF:-1,IN: HUM STAR
+http://iptvmedia.live:8080/test-b4fda5/9fee/165819
+#EXTINF:-1,IN: HUM TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196132
+#EXTINF:-1,IN: HUM World
+http://iptvmedia.live:8080/test-b4fda5/9fee/63399
+#EXTINF:-1,IN: IBC 24
+http://iptvmedia.live:8080/test-b4fda5/9fee/193013
+#EXTINF:-1,IN: Ibc Bakthi
+http://iptvmedia.live:8080/test-b4fda5/9fee/196133
+#EXTINF:-1,IN: IBC Comedy
+http://iptvmedia.live:8080/test-b4fda5/9fee/45428
+#EXTINF:-1,IN: IBC Kids
+http://iptvmedia.live:8080/test-b4fda5/9fee/60411
+#EXTINF:-1,IN: IBC Siluvai
+http://iptvmedia.live:8080/test-b4fda5/9fee/51841
+#EXTINF:-1,IN: IBC Tamil
+http://iptvmedia.live:8080/test-b4fda5/9fee/51823
+#EXTINF:-1,IN: Imayam TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166375
+#EXTINF:-1,IN: In Goa 24x7
+http://iptvmedia.live:8080/test-b4fda5/9fee/193019
+#EXTINF:-1,IN: India News
+http://iptvmedia.live:8080/test-b4fda5/9fee/192967
+#EXTINF:-1,IN: India News Gujrat
+http://iptvmedia.live:8080/test-b4fda5/9fee/196134
+#EXTINF:-1,IN: India Today
+http://iptvmedia.live:8080/test-b4fda5/9fee/16970
+#EXTINF:-1,IN: India Today News
+http://iptvmedia.live:8080/test-b4fda5/9fee/49587
+#EXTINF:-1,IN: India TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49577
+#EXTINF:-1,IN: Indradhanu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193058
+#EXTINF:-1,IN: INH 24X7
+http://iptvmedia.live:8080/test-b4fda5/9fee/193014
+#EXTINF:-1,IN: InSync
+http://iptvmedia.live:8080/test-b4fda5/9fee/193165
+#EXTINF:-1,IN: Investigation Discovery
+http://iptvmedia.live:8080/test-b4fda5/9fee/193169
+#EXTINF:-1,IN: iON TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/198746
+#EXTINF:-1,IN: IQRA Bangla
+http://iptvmedia.live:8080/test-b4fda5/9fee/121139
+#EXTINF:-1,IN: Isaiaruvi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193205
+#EXTINF:-1,IN: Ishwar
+http://iptvmedia.live:8080/test-b4fda5/9fee/193059
+#EXTINF:-1,IN: Ishwar Bhakti TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166380
+#EXTINF:-1,IN: Islam Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/121142
+#EXTINF:-1,IN: ITN
+http://iptvmedia.live:8080/test-b4fda5/9fee/76955
+#EXTINF:-1,IN: J Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/145638
+#EXTINF:-1,IN: Jalsha Movies HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193158
+#EXTINF:-1,IN: JANTA TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/60348
+#EXTINF:-1,IN: Jantantra
+http://iptvmedia.live:8080/test-b4fda5/9fee/192974
+#EXTINF:-1,IN: Jaya Max
+http://iptvmedia.live:8080/test-b4fda5/9fee/51824
+#EXTINF:-1,IN: Jaya Movie
+http://iptvmedia.live:8080/test-b4fda5/9fee/145643
+#EXTINF:-1,IN: Jaya Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/193207
+#EXTINF:-1,IN: Jaya TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/145637
+#EXTINF:-1,IN: Jeevan TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166377
+#EXTINF:-1,IN: Jhanjar Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/82522
+#EXTINF:-1,IN Jhanjar Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/221437
+#EXTINF:-1,IN: Jhanjar Religious
+http://iptvmedia.live:8080/test-b4fda5/9fee/49613
+#EXTINF:-1,IN: Jinvani Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/193061
+#EXTINF:-1,IN: Kairali TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51849
+#EXTINF:-1,IN: Kalaignar TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193204
+#EXTINF:-1,IN: Kalinga TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193062
+#EXTINF:-1,IN: Kanak News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193063
+#EXTINF:-1,IN: Kanshi TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/145661
+#EXTINF:-1,IN: Kappa TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193109
+#EXTINF:-1,IN: Kasthuri
+http://iptvmedia.live:8080/test-b4fda5/9fee/193110
+#EXTINF:-1,IN: Kaumudy TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82530
+#EXTINF:-1,IN: KHALISTAN TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49645
+#EXTINF:-1,IN: Khalsa Channel HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196138
+#EXTINF:-1,IN: Kite Victers
+http://iptvmedia.live:8080/test-b4fda5/9fee/193083
+#EXTINF:-1,IN: Kolkata TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193111
+#EXTINF:-1,IN: KTV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/36442
+#EXTINF:-1,IN: KVTV LIVE
+http://iptvmedia.live:8080/test-b4fda5/9fee/197667
+#EXTINF:-1,IN: KVTV MAIN
+http://iptvmedia.live:8080/test-b4fda5/9fee/197668
+#EXTINF:-1,IN: KVTV PLUS
+http://iptvmedia.live:8080/test-b4fda5/9fee/197666
+#EXTINF:-1,IN: LAHORE NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165818
+#EXTINF:-1,IN: Lakshya TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/196139
+#EXTINF:-1,IN: Life OK
+http://iptvmedia.live:8080/test-b4fda5/9fee/71068
+#EXTINF:-1,IN: Life Punjabi
+http://iptvmedia.live:8080/test-b4fda5/9fee/49601
+#EXTINF:-1,IN: LIVING FOODZ
+http://iptvmedia.live:8080/test-b4fda5/9fee/1361
+#EXTINF:-1,IN: Living India News
+http://iptvmedia.live:8080/test-b4fda5/9fee/159107
+#EXTINF:-1,IN: Lok Sabha TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82532
+#EXTINF:-1,IN: Lord Buddha TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193112
+#EXTINF:-1,IN: MAA Gold
+http://iptvmedia.live:8080/test-b4fda5/9fee/196141
+#EXTINF:-1,IN: Maa HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196142
+#EXTINF:-1,IN: MAA Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/192715
+#EXTINF:-1,IN: Madani Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/121144
+#EXTINF:-1,IN: Madha TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193042
+#EXTINF:-1,IN: MahaMovies
+http://iptvmedia.live:8080/test-b4fda5/9fee/82608
+#EXTINF:-1,IN: Makkal TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193119
+#EXTINF:-1,IN: Malai Murasu Seithigal
+http://iptvmedia.live:8080/test-b4fda5/9fee/193066
+#EXTINF:-1,IN: Malai Murasu TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166384
+#EXTINF:-1,IN: Mangalam TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/192075
+#EXTINF:-1,IN: Manjari
+http://iptvmedia.live:8080/test-b4fda5/9fee/193076
+#EXTINF:-1,IN: Manorama News
+http://iptvmedia.live:8080/test-b4fda5/9fee/192076
+#EXTINF:-1,IN: MANORANJAN Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/192200
+#EXTINF:-1,IN: Manoranjan TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193176
+#EXTINF:-1,IN: Mantavya News
+http://iptvmedia.live:8080/test-b4fda5/9fee/159109
+#EXTINF:-1,IN: Mastiii
+http://iptvmedia.live:8080/test-b4fda5/9fee/76958
+#EXTINF:-1,IN: Mathrubhumi News
+http://iptvmedia.live:8080/test-b4fda5/9fee/163277
+#EXTINF:-1,IN: Mazhavil Manorama HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193067
+#EXTINF:-1,IN: Media One
+http://iptvmedia.live:8080/test-b4fda5/9fee/51851
+#EXTINF:-1,IN: Mega TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193209
+#EXTINF:-1,IN: MH One
+http://iptvmedia.live:8080/test-b4fda5/9fee/193116
+#EXTINF:-1,IN: MH One Shraddha
+http://iptvmedia.live:8080/test-b4fda5/9fee/193064
+#EXTINF:-1,IN: MH1 NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165792
+#EXTINF:-1,IN: Mirror Now
+http://iptvmedia.live:8080/test-b4fda5/9fee/193096
+#EXTINF:-1,IN: MK Six
+http://iptvmedia.live:8080/test-b4fda5/9fee/198221
+#EXTINF:-1,IN: MK Tunes
+http://iptvmedia.live:8080/test-b4fda5/9fee/198222
+#EXTINF:-1,IN: MN+ HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192961
+#EXTINF:-1,IN: MNX HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192962
+#EXTINF:-1,IN: Movies Now
+http://iptvmedia.live:8080/test-b4fda5/9fee/169118
+#EXTINF:-1,IN: Movies OK
+http://iptvmedia.live:8080/test-b4fda5/9fee/71069
+#EXTINF:-1,IN: MTV Beats HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193068
+#EXTINF:-1,IN: MTV HD+
+http://iptvmedia.live:8080/test-b4fda5/9fee/145628
+#EXTINF:-1,IN: MTV India
+http://iptvmedia.live:8080/test-b4fda5/9fee/193647
+#EXTINF:-1,IN: Murasu TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193120
+#EXTINF:-1,IN: Music India
+http://iptvmedia.live:8080/test-b4fda5/9fee/145654
+#EXTINF:-1,IN Music India
+http://iptvmedia.live:8080/test-b4fda5/9fee/221451
+#EXTINF:-1,IN: Nambikkai TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166382
+#EXTINF:-1,IN: NAMDHAR TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49646
+#EXTINF:-1,IN: Namma TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193070
+#EXTINF:-1,IN: NAT GEO HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49562
+#EXTINF:-1,IN: NAT GEO Wild HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49566
+#EXTINF:-1,IN: Nazrana
+http://iptvmedia.live:8080/test-b4fda5/9fee/165810
+#EXTINF:-1,IN: NDA Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/49621
+#EXTINF:-1,IN: NDTV 24x7
+http://iptvmedia.live:8080/test-b4fda5/9fee/21664
+#EXTINF:-1,IN: NDTV India
+http://iptvmedia.live:8080/test-b4fda5/9fee/166390
+#EXTINF:-1,IN: NDTV News 24
+http://iptvmedia.live:8080/test-b4fda5/9fee/192141
+#EXTINF:-1,IN: NDTV Profit
+http://iptvmedia.live:8080/test-b4fda5/9fee/166388
+#EXTINF:-1,IN: NDTV Profit Prime
+http://iptvmedia.live:8080/test-b4fda5/9fee/192976
+#EXTINF:-1,IN: NEO NEWS HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/165781
+#EXTINF:-1,IN: Nepal 1
+http://iptvmedia.live:8080/test-b4fda5/9fee/193160
+#EXTINF:-1,IN: News 18
+http://iptvmedia.live:8080/test-b4fda5/9fee/192714
+#EXTINF:-1,IN: News 18 MP TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197951
+#EXTINF:-1,IN: News 18 Punjab TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197949
+#EXTINF:-1,IN: News 18 Tamilnadu
+http://iptvmedia.live:8080/test-b4fda5/9fee/196111
+#EXTINF:-1,IN: News 18 Up TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197950
+#EXTINF:-1,IN: NEWS 24
+http://iptvmedia.live:8080/test-b4fda5/9fee/16601
+#EXTINF:-1,IN: News Live
+http://iptvmedia.live:8080/test-b4fda5/9fee/193089
+#EXTINF:-1,IN: News Nation
+http://iptvmedia.live:8080/test-b4fda5/9fee/192968
+#EXTINF:-1,IN: News State MP CG
+http://iptvmedia.live:8080/test-b4fda5/9fee/192972
+#EXTINF:-1,IN: News State UP Uttarakhand
+http://iptvmedia.live:8080/test-b4fda5/9fee/192970
+#EXTINF:-1,IN: News11 Bharat
+http://iptvmedia.live:8080/test-b4fda5/9fee/192973
+#EXTINF:-1,IN: News18 Bihar Jharkhand
+http://iptvmedia.live:8080/test-b4fda5/9fee/163274
+#EXTINF:-1,IN: News18 Gujarati
+http://iptvmedia.live:8080/test-b4fda5/9fee/193127
+#EXTINF:-1,IN: News18 Kerala
+http://iptvmedia.live:8080/test-b4fda5/9fee/193150
+#EXTINF:-1,IN: News18 Lokmat
+http://iptvmedia.live:8080/test-b4fda5/9fee/82543
+#EXTINF:-1,IN: News18 Odia
+http://iptvmedia.live:8080/test-b4fda5/9fee/193142
+#EXTINF:-1,IN: News18 Tamil Nadu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193210
+#EXTINF:-1,IN: News18 Urdu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193015
+#EXTINF:-1,IN: News18 Uttar Pradesh Uttarakhand
+http://iptvmedia.live:8080/test-b4fda5/9fee/193004
+#EXTINF:-1,IN: NHK World
+http://iptvmedia.live:8080/test-b4fda5/9fee/192984
+#EXTINF:-1,IN: Nick HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82611
+#EXTINF:-1,IN: Nick Junior
+http://iptvmedia.live:8080/test-b4fda5/9fee/192989
+#EXTINF:-1,IN: NOOR TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/174172
+#EXTINF:-1,IN: North East Live
+http://iptvmedia.live:8080/test-b4fda5/9fee/193121
+#EXTINF:-1,IN: NTV
+http://iptvmedia.live:8080/test-b4fda5/9fee/174171
+#EXTINF:-1,IN: Ntv Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/165796
+#EXTINF:-1,IN: Orange Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/193023
+#EXTINF:-1,IN: OTV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193072
+#EXTINF:-1,IN: Patrika TV Rajasthan
+http://iptvmedia.live:8080/test-b4fda5/9fee/193178
+#EXTINF:-1,IN: PCNE Chinese
+http://iptvmedia.live:8080/test-b4fda5/9fee/198741
+#EXTINF:-1,IN: Peace of Mind
+http://iptvmedia.live:8080/test-b4fda5/9fee/193074
+#EXTINF:-1,IN: Peace TV English
+http://iptvmedia.live:8080/test-b4fda5/9fee/192077
+#EXTINF:-1,IN: Peace TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82613
+#EXTINF:-1,IN: PEACE TV URDU
+http://iptvmedia.live:8080/test-b4fda5/9fee/198614
+#EXTINF:-1,IN: People
+http://iptvmedia.live:8080/test-b4fda5/9fee/51821
+#EXTINF:-1,IN: Peppers TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166401
+#EXTINF:-1,IN: PITAARA
+http://iptvmedia.live:8080/test-b4fda5/9fee/145652
+#EXTINF:-1,IN: Pogo
+http://iptvmedia.live:8080/test-b4fda5/9fee/192986
+#EXTINF:-1,IN: Polimer News
+http://iptvmedia.live:8080/test-b4fda5/9fee/163279
+#EXTINF:-1,IN: Polimer TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193202
+#EXTINF:-1,IN: Prag News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193075
+#EXTINF:-1,IN: Prajaa Kannada TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51847
+#EXTINF:-1,IN: Prarthana TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193161
+#EXTINF:-1,IN: Pratidin Time
+http://iptvmedia.live:8080/test-b4fda5/9fee/198224
+#EXTINF:-1,IN: Prime Canada TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/192144
+#EXTINF:-1,IN: Primeplus HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196109
+#EXTINF:-1,IN: Protidin Time
+http://iptvmedia.live:8080/test-b4fda5/9fee/193091
+#EXTINF:-1,IN: Prudent
+http://iptvmedia.live:8080/test-b4fda5/9fee/193020
+#EXTINF:-1,IN: PTC Chak De
+http://iptvmedia.live:8080/test-b4fda5/9fee/193155
+#EXTINF:-1,IN: PTC News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193154
+#EXTINF:-1,IN: PTC Punjabi
+http://iptvmedia.live:8080/test-b4fda5/9fee/82616
+#EXTINF:-1,IN: PTC Punjabi Gold TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197742
+#EXTINF:-1,IN: PTV Home
+http://iptvmedia.live:8080/test-b4fda5/9fee/165785
+#EXTINF:-1,IN: PTV NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165786
+#EXTINF:-1,IN: PTV PARDESI
+http://iptvmedia.live:8080/test-b4fda5/9fee/49642
+#EXTINF:-1,IN: PTV Sports
+http://iptvmedia.live:8080/test-b4fda5/9fee/165777
+#EXTINF:-1,IN: PTV World
+http://iptvmedia.live:8080/test-b4fda5/9fee/165791
+#EXTINF:-1,IN: Public Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/192145
+#EXTINF:-1,IN: Public TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193113
+#EXTINF:-1,IN: Punjabi Star
+http://iptvmedia.live:8080/test-b4fda5/9fee/196099
+#EXTINF:-1,IN: Punjabi TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49600
+#EXTINF:-1,IN: PUNJABI ZINDABAAD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49635
+#EXTINF:-1,IN: Puthiya Thalaimurai
+http://iptvmedia.live:8080/test-b4fda5/9fee/193035
+#EXTINF:-1,IN: Puthiya Thalimurai
+http://iptvmedia.live:8080/test-b4fda5/9fee/196100
+#EXTINF:-1,IN: R.Bharat
+http://iptvmedia.live:8080/test-b4fda5/9fee/192966
+#EXTINF:-1,IN: Raj Digital Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/60418
+#EXTINF:-1,IN: Raj Musix
+http://iptvmedia.live:8080/test-b4fda5/9fee/193137
+#EXTINF:-1,IN: Raj Musix Kannada
+http://iptvmedia.live:8080/test-b4fda5/9fee/193138
+#EXTINF:-1,IN: Raj Musix Malayalam
+http://iptvmedia.live:8080/test-b4fda5/9fee/193139
+#EXTINF:-1,IN: Raj Musix Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193140
+#EXTINF:-1,IN: RAJ NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/197939
+#EXTINF:-1,IN: Raj News 24x7
+http://iptvmedia.live:8080/test-b4fda5/9fee/193648
+#EXTINF:-1,IN: Raj News Kannada
+http://iptvmedia.live:8080/test-b4fda5/9fee/193199
+#EXTINF:-1,IN: Raj News Malayalam
+http://iptvmedia.live:8080/test-b4fda5/9fee/193141
+#EXTINF:-1,IN: Raj News Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193200
+#EXTINF:-1,IN: Raj TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193125
+#EXTINF:-1,IN: Rajya Sabha
+http://iptvmedia.live:8080/test-b4fda5/9fee/82618
+#EXTINF:-1,IN: Ramdhenu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193129
+#EXTINF:-1,IN: Rang
+http://iptvmedia.live:8080/test-b4fda5/9fee/193090
+#EXTINF:-1,IN: Raunak Punjab Dee
+http://iptvmedia.live:8080/test-b4fda5/9fee/196102
+#EXTINF:-1,IN: Rengoni TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193156
+#EXTINF:-1,IN: Reporter TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51854
+#EXTINF:-1,IN: Republic Bharat
+http://iptvmedia.live:8080/test-b4fda5/9fee/49582
+#EXTINF:-1,IN: Republic News
+http://iptvmedia.live:8080/test-b4fda5/9fee/82620
+#EXTINF:-1,IN: Republic TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/192975
+#EXTINF:-1,IN: Rishtey
+http://iptvmedia.live:8080/test-b4fda5/9fee/165793
+#EXTINF:-1,IN: Rishtey Cineplex
+http://iptvmedia.live:8080/test-b4fda5/9fee/71074
+#EXTINF:-1,IN: Rishtey Colors
+http://iptvmedia.live:8080/test-b4fda5/9fee/193619
+#EXTINF:-1,IN: Rishtey Europe
+http://iptvmedia.live:8080/test-b4fda5/9fee/19741
+#EXTINF:-1,IN: Romedy Now HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/51876
+#EXTINF:-1,IN: ROZE NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165816
+#EXTINF:-1,IN: RSTV RajyaSabha
+http://iptvmedia.live:8080/test-b4fda5/9fee/82552
+#EXTINF:-1,IN: Russia Today
+http://iptvmedia.live:8080/test-b4fda5/9fee/192983
+#EXTINF:-1,IN: SAAM Marathi
+http://iptvmedia.live:8080/test-b4fda5/9fee/196103
+#EXTINF:-1,IN: Saam TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166387
+#EXTINF:-1,IN: SAB TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/20649
+#EXTINF:-1,IN: SADA TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49625
+#EXTINF:-1,IN: Sadhna News Madhya Pradesh/Chhattisgarh
+http://iptvmedia.live:8080/test-b4fda5/9fee/166391
+#EXTINF:-1,IN: Sadhna Plus News
+http://iptvmedia.live:8080/test-b4fda5/9fee/166394
+#EXTINF:-1,IN: Sadhna TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166392
+#EXTINF:-1,IN: Safari TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193123
+#EXTINF:-1,IN: Sahana TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193122
+#EXTINF:-1,IN: Sahara Samay Bihar
+http://iptvmedia.live:8080/test-b4fda5/9fee/196105
+#EXTINF:-1,IN: Sahara Samay Up TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197942
+#EXTINF:-1,IN: Sakshi TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193164
+#EXTINF:-1,IN: Sandesh News
+http://iptvmedia.live:8080/test-b4fda5/9fee/145664
+#EXTINF:-1,IN: Sangat TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/165765
+#EXTINF:-1,IN: Sangeet Marathi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193185
+#EXTINF:-1,IN: Sanjha Punjab
+http://iptvmedia.live:8080/test-b4fda5/9fee/49624
+#EXTINF:-1,IN: Sankara TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166407
+#EXTINF:-1,IN: Sanskar
+http://iptvmedia.live:8080/test-b4fda5/9fee/51882
+#EXTINF:-1,IN: Santhora Short Flim
+http://iptvmedia.live:8080/test-b4fda5/9fee/51833
+#EXTINF:-1,IN: Santhora TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51835
+#EXTINF:-1,IN: SARDARI TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82554
+#EXTINF:-1,IN: Sarv Dharam Sangam
+http://iptvmedia.live:8080/test-b4fda5/9fee/166791
+#EXTINF:-1,IN: Sathiyam TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193131
+#EXTINF:-1,IN: Satsang TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/45463
+#EXTINF:-1,IN: SAUDI EKHBARIYA
+http://iptvmedia.live:8080/test-b4fda5/9fee/165815
+#EXTINF:-1,IN: SET
+http://iptvmedia.live:8080/test-b4fda5/9fee/192952
+#EXTINF:-1,IN: Set Max
+http://iptvmedia.live:8080/test-b4fda5/9fee/63397
+#EXTINF:-1,IN: Shalom TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193133
+#EXTINF:-1,IN: SHAN PUNJABI TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49628
+#EXTINF:-1,IN: Shemaroo MarathiBana
+http://iptvmedia.live:8080/test-b4fda5/9fee/193018
+#EXTINF:-1,IN: Shemaroo TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/192955
+#EXTINF:-1,IN: Showbox
+http://iptvmedia.live:8080/test-b4fda5/9fee/192998
+#EXTINF:-1,IN: Shubh TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193073
+#EXTINF:-1,IN: Shubhsandesh
+http://iptvmedia.live:8080/test-b4fda5/9fee/82557
+#EXTINF:-1,IN: Sikh Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/82556
+#EXTINF:-1,IN: SikhTV Punjabi HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/198605
+#EXTINF:-1,IN: Sirippoli
+http://iptvmedia.live:8080/test-b4fda5/9fee/193163
+#EXTINF:-1,IN: Sivan TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/51842
+#EXTINF:-1,IN: SKY ARTS HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/62479
+#EXTINF:-1,IN: Sonic nickelodeon
+http://iptvmedia.live:8080/test-b4fda5/9fee/192988
+#EXTINF:-1,IN: Sony AATH
+http://iptvmedia.live:8080/test-b4fda5/9fee/193021
+#EXTINF:-1,IN: Sony Action
+http://iptvmedia.live:8080/test-b4fda5/9fee/48706
+#EXTINF:-1,IN: Sony BBC Earth HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192995
+#EXTINF:-1,IN: Sony Channel
+http://iptvmedia.live:8080/test-b4fda5/9fee/1072
+#EXTINF:-1,IN: Sony Christmas HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16200
+#EXTINF:-1,IN: Sony Entertainment HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/63395
+#EXTINF:-1,IN: Sony ESPN HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16636
+#EXTINF:-1,IN Sony ESPN HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/221700
+#EXTINF:-1,IN: Sony Marathi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193097
+#EXTINF:-1,IN: Sony Max 2
+http://iptvmedia.live:8080/test-b4fda5/9fee/4862
+#EXTINF:-1,IN: Sony Max FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1359
+#EXTINF:-1,IN: Sony Mix HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1358
+#EXTINF:-1,IN: Sony Movies +1 FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/4709
+#EXTINF:-1,IN: Sony Movies Action
+http://iptvmedia.live:8080/test-b4fda5/9fee/165918
+#EXTINF:-1,IN: Sony Movies Action +1
+http://iptvmedia.live:8080/test-b4fda5/9fee/165928
+#EXTINF:-1,IN: Sony Movies CHRISTMAS
+http://iptvmedia.live:8080/test-b4fda5/9fee/196389
+#EXTINF:-1,IN: Sony Movies Classic
+http://iptvmedia.live:8080/test-b4fda5/9fee/173235
+#EXTINF:-1,IN: Sony Movies FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/4708
+#EXTINF:-1,IN: Sony Pal
+http://iptvmedia.live:8080/test-b4fda5/9fee/193645
+#EXTINF:-1,IN: Sony PIX HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49539
+#EXTINF:-1,IN: Sony SAB HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1073
+#EXTINF:-1,IN: Sony SAB HD USA
+http://iptvmedia.live:8080/test-b4fda5/9fee/201081
+#EXTINF:-1,IN: Sony SIX HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/4853
+#EXTINF:-1,IN: Sony TEN 1 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/74893
+#EXTINF:-1,IN: Sony Ten 1 HEVC
+http://iptvmedia.live:8080/test-b4fda5/9fee/197940
+#EXTINF:-1,IN: Sony TEN 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/56190
+#EXTINF:-1,IN: Sony Ten 2 HEVC
+http://iptvmedia.live:8080/test-b4fda5/9fee/197743
+#EXTINF:-1,IN: Sony TEN 3
+http://iptvmedia.live:8080/test-b4fda5/9fee/56191
+#EXTINF:-1,IN: Sony TV Asia HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/4867
+#EXTINF:-1,IN: Sony TV UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/23551
+#EXTINF:-1,IN: Sony WAH
+http://iptvmedia.live:8080/test-b4fda5/9fee/165801
+#EXTINF:-1,IN: Sony Yay
+http://iptvmedia.live:8080/test-b4fda5/9fee/192991
+#EXTINF:-1,IN: Sony YAY HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/1355
+#EXTINF:-1,IN: Sri Sankara TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193151
+#EXTINF:-1,IN: STAR BHARAT HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16614
+#EXTINF:-1,IN: STAR BHARAT UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/62482
+#EXTINF:-1,IN: Star Gold 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/197719
+#EXTINF:-1,IN: STAR GOLD FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1070
+#EXTINF:-1,IN: Star Gold Select HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82623
+#EXTINF:-1,IN: STAR GOLD UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/62480
+#EXTINF:-1,IN: Star Jalsha
+http://iptvmedia.live:8080/test-b4fda5/9fee/12979
+#EXTINF:-1,IN: Star Maa Gold
+http://iptvmedia.live:8080/test-b4fda5/9fee/193195
+#EXTINF:-1,IN: Star Maa HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82624
+#EXTINF:-1,IN: Star Maa Movies HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193194
+#EXTINF:-1,IN: STAR Movies FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/11511
+#EXTINF:-1,IN: Star Movies HD Middle East
+http://iptvmedia.live:8080/test-b4fda5/9fee/82558
+#EXTINF:-1,IN: STAR PLUS FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1069
+#EXTINF:-1,IN: STAR PLUS HD UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/60347
+#EXTINF:-1,IN: Star Pravah HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193149
+#EXTINF:-1,IN: STAR SPORT 3 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/62584
+#EXTINF:-1,IN: Star Sports 1 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/3630
+#EXTINF:-1,IN: STAR SPORTS 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/3631
+#EXTINF:-1,IN: Star Sports 2 Select HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/201082
+#EXTINF:-1,IN: Star Sports Select 1 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82628
+#EXTINF:-1,IN: STAR SPORTS SELECT 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16619
+#EXTINF:-1,IN: Star Suvarna HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193147
+#EXTINF:-1,IN: Star Suvarna Plus
+http://iptvmedia.live:8080/test-b4fda5/9fee/193114
+#EXTINF:-1,IN: Star Vijay HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/19744
+#EXTINF:-1,IN: Stars Ports 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82631
+#EXTINF:-1,IN: Subharti TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193002
+#EXTINF:-1,IN: Subhavaartha TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/166397
+#EXTINF:-1,IN: Subrang TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82563
+#EXTINF:-1,IN: SUCH TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/165814
+#EXTINF:-1,IN: Sudarshan News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193077
+#EXTINF:-1,IN: Sun TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/76969
+#EXTINF:-1,IN: Surya Bhojpuri
+http://iptvmedia.live:8080/test-b4fda5/9fee/193008
+#EXTINF:-1,IN: Surya Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/193145
+#EXTINF:-1,IN: Surya TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193144
+#EXTINF:-1,IN: SURYA TV Malayam
+http://iptvmedia.live:8080/test-b4fda5/9fee/196094
+#EXTINF:-1,IN: Suvarna News
+http://iptvmedia.live:8080/test-b4fda5/9fee/51844
+#EXTINF:-1,IN: Suvarna News 24x7
+http://iptvmedia.live:8080/test-b4fda5/9fee/193157
+#EXTINF:-1,IN: SVBC
+http://iptvmedia.live:8080/test-b4fda5/9fee/166383
+#EXTINF:-1,IN: SVBC 2
+http://iptvmedia.live:8080/test-b4fda5/9fee/193079
+#EXTINF:-1,IN: SVBC Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193082
+#EXTINF:-1,IN: Swaraj Express SMBC
+http://iptvmedia.live:8080/test-b4fda5/9fee/193093
+#EXTINF:-1,IN: T News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193024
+#EXTINF:-1,IN: Tamil Vision
+http://iptvmedia.live:8080/test-b4fda5/9fee/60423
+#EXTINF:-1,IN: Tamil Visionternational
+http://iptvmedia.live:8080/test-b4fda5/9fee/82561
+#EXTINF:-1,IN: TANGY PUNJABI TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/196096
+#EXTINF:-1,IN: Tarang Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/193134
+#EXTINF:-1,IN: Tarang TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193132
+#EXTINF:-1,IN: Tata Sky Acting Adda
+http://iptvmedia.live:8080/test-b4fda5/9fee/193171
+#EXTINF:-1,IN: Tata Sky Beauty
+http://iptvmedia.live:8080/test-b4fda5/9fee/193172
+#EXTINF:-1,IN: Tata Sky Bhojpuri Sanima
+http://iptvmedia.live:8080/test-b4fda5/9fee/193005
+#EXTINF:-1,IN: Tata Sky Cooking
+http://iptvmedia.live:8080/test-b4fda5/9fee/193167
+#EXTINF:-1,IN: Tata Sky Darshan
+http://iptvmedia.live:8080/test-b4fda5/9fee/193000
+#EXTINF:-1,IN: Tata Sky English in Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/193166
+#EXTINF:-1,IN: Tata Sky Family Health
+http://iptvmedia.live:8080/test-b4fda5/9fee/193098
+#EXTINF:-1,IN: Tata Sky Fitness
+http://iptvmedia.live:8080/test-b4fda5/9fee/193170
+#EXTINF:-1,IN: Tata Sky Fun Learn Junior
+http://iptvmedia.live:8080/test-b4fda5/9fee/193180
+#EXTINF:-1,IN: Tata Sky Fun Learn Preschool
+http://iptvmedia.live:8080/test-b4fda5/9fee/193179
+#EXTINF:-1,IN: Tata Sky Gujarati Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/193124
+#EXTINF:-1,IN: Tata Sky Hits
+http://iptvmedia.live:8080/test-b4fda5/9fee/192956
+#EXTINF:-1,IN: Tata Sky Hollywood Local
+http://iptvmedia.live:8080/test-b4fda5/9fee/193174
+#EXTINF:-1,IN: Tata Sky Javed Akhtar
+http://iptvmedia.live:8080/test-b4fda5/9fee/193173
+#EXTINF:-1,IN: Tata Sky Kannada Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/193104
+#EXTINF:-1,IN: Tata Sky Seniors
+http://iptvmedia.live:8080/test-b4fda5/9fee/193177
+#EXTINF:-1,IN: Tata Sky Shorts TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193168
+#EXTINF:-1,IN: Tata Sky Show Bizz
+http://iptvmedia.live:8080/test-b4fda5/9fee/192958
+#EXTINF:-1,IN: Tata Sky Smart Manager
+http://iptvmedia.live:8080/test-b4fda5/9fee/193181
+#EXTINF:-1,IN: Tata Sky Theatre HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193175
+#EXTINF:-1,IN: Tata Sky Vedic Maths
+http://iptvmedia.live:8080/test-b4fda5/9fee/193182
+#EXTINF:-1,IN: TEN 1 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16622
+#EXTINF:-1,IN: TEN 2 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16623
+#EXTINF:-1,IN: TEN 3 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16621
+#EXTINF:-1,IN: TEN Golf
+http://iptvmedia.live:8080/test-b4fda5/9fee/196097
+#EXTINF:-1,IN: Ten Sports
+http://iptvmedia.live:8080/test-b4fda5/9fee/82635
+#EXTINF:-1,IN: Ten Sports 3 HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82633
+#EXTINF:-1,IN: Tet HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196098
+#EXTINF:-1,IN: TEZ
+http://iptvmedia.live:8080/test-b4fda5/9fee/193030
+#EXTINF:-1,IN: Tez News TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/192196
+#EXTINF:-1,IN: Thanthi TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/45437
+#EXTINF:-1,IN: Times Now HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/76961
+#EXTINF:-1,IN: Times Now World
+http://iptvmedia.live:8080/test-b4fda5/9fee/193078
+#EXTINF:-1,IN: TLC HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192996
+#EXTINF:-1,IN: TLC HINDI
+http://iptvmedia.live:8080/test-b4fda5/9fee/197661
+#EXTINF:-1,IN: Travelxp HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/82636
+#EXTINF:-1,IN: Travelxp Tamil
+http://iptvmedia.live:8080/test-b4fda5/9fee/193128
+#EXTINF:-1,IN: TRUCKING TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49632
+#EXTINF:-1,IN: TV Max
+http://iptvmedia.live:8080/test-b4fda5/9fee/197665
+#EXTINF:-1,IN: TV PUNJAB HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196089
+#EXTINF:-1,IN: TV1
+http://iptvmedia.live:8080/test-b4fda5/9fee/151147
+#EXTINF:-1,IN: TV5 Kannada
+http://iptvmedia.live:8080/test-b4fda5/9fee/193065
+#EXTINF:-1,IN: TV5 Monde Asie
+http://iptvmedia.live:8080/test-b4fda5/9fee/192981
+#EXTINF:-1,IN: TV5 News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193099
+#EXTINF:-1,IN: TV84
+http://iptvmedia.live:8080/test-b4fda5/9fee/82564
+#EXTINF:-1,IN: TV84 Punjabi HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192070
+#EXTINF:-1,IN: TV9 Bharatvarsh
+http://iptvmedia.live:8080/test-b4fda5/9fee/192969
+#EXTINF:-1,IN: TV9 Gujarati
+http://iptvmedia.live:8080/test-b4fda5/9fee/193152
+#EXTINF:-1,IN: TV9 Kannada
+http://iptvmedia.live:8080/test-b4fda5/9fee/193060
+#EXTINF:-1,IN: TV9 KANNADA NEWS LIVE
+http://iptvmedia.live:8080/test-b4fda5/9fee/165783
+#EXTINF:-1,IN: TV9 Marathi
+http://iptvmedia.live:8080/test-b4fda5/9fee/193016
+#EXTINF:-1,IN: TV9 Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/163256
+#EXTINF:-1,IN: Twenty Four News
+http://iptvmedia.live:8080/test-b4fda5/9fee/82567
+#EXTINF:-1,IN: Udaya Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/193106
+#EXTINF:-1,IN: Udaya TV HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/193153
+#EXTINF:-1,IN: UTV Bindass
+http://iptvmedia.live:8080/test-b4fda5/9fee/192953
+#EXTINF:-1,IN: UTV Movies
+http://iptvmedia.live:8080/test-b4fda5/9fee/145655
+#EXTINF:-1,IN: V6 News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193029
+#EXTINF:-1,IN: Vaanavil TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82566
+#EXTINF:-1,IN: Vasanth TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193036
+#EXTINF:-1,IN: Vasantham TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/82569
+#EXTINF:-1,IN: Vedic
+http://iptvmedia.live:8080/test-b4fda5/9fee/193080
+#EXTINF:-1,IN: Velicham TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/159110
+#EXTINF:-1,IN: Venus TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/165770
+#EXTINF:-1,IN: VENUS UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/196090
+#EXTINF:-1,IN: Vision Punjab Gurbani
+http://iptvmedia.live:8080/test-b4fda5/9fee/196091
+#EXTINF:-1,IN: Vision Punjab Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/196092
+#EXTINF:-1,IN Vision Punjab Music
+http://iptvmedia.live:8080/test-b4fda5/9fee/221508
+#EXTINF:-1,IN: Vision Punjab TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/196093
+#EXTINF:-1,IN: Vissa TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193162
+#EXTINF:-1,IN: VTV Gujarati
+http://iptvmedia.live:8080/test-b4fda5/9fee/193081
+#EXTINF:-1,IN: VTV NEWS GUJARATI
+http://iptvmedia.live:8080/test-b4fda5/9fee/197658
+#EXTINF:-1,IN: WAQT NEWS
+http://iptvmedia.live:8080/test-b4fda5/9fee/165799
+#EXTINF:-1,IN: WB
+http://iptvmedia.live:8080/test-b4fda5/9fee/192960
+#EXTINF:-1,IN: We TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/193159
+#EXTINF:-1,IN: Willow Cricket HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/165776
+#EXTINF:-1,IN: WION
+http://iptvmedia.live:8080/test-b4fda5/9fee/192999
+#EXTINF:-1,IN: WOW Cinema TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/197945
+#EXTINF:-1,IN: ZEE 24 Ghanta
+http://iptvmedia.live:8080/test-b4fda5/9fee/193187
+#EXTINF:-1,IN: ZEE 24 Kalak
+http://iptvmedia.live:8080/test-b4fda5/9fee/45484
+#EXTINF:-1,IN: ZEE 24 Taas
+http://iptvmedia.live:8080/test-b4fda5/9fee/45486
+#EXTINF:-1,IN: ZEE Action HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1353
+#EXTINF:-1,IN: ZEE AFLAM
+http://iptvmedia.live:8080/test-b4fda5/9fee/82572
+#EXTINF:-1,IN: ZEE Anmol
+http://iptvmedia.live:8080/test-b4fda5/9fee/19467
+#EXTINF:-1,IN: Zee Anmol Cinema
+http://iptvmedia.live:8080/test-b4fda5/9fee/65224
+#EXTINF:-1,IN: Zee Bangla
+http://iptvmedia.live:8080/test-b4fda5/9fee/145632
+#EXTINF:-1,IN: Zee Bangla Cinema FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192712
+#EXTINF:-1,IN: Zee Bihar Jharkhand
+http://iptvmedia.live:8080/test-b4fda5/9fee/193006
+#EXTINF:-1,IN: Zee Bioskop
+http://iptvmedia.live:8080/test-b4fda5/9fee/197718
+#EXTINF:-1,IN: ZEE Biskope
+http://iptvmedia.live:8080/test-b4fda5/9fee/193009
+#EXTINF:-1,IN: ZEE BOLLYWOOD HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1351
+#EXTINF:-1,IN: Zee Business
+http://iptvmedia.live:8080/test-b4fda5/9fee/16984
+#EXTINF:-1,IN: Zee Cafe HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/49561
+#EXTINF:-1,IN: Zee Cinema FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1350
+#EXTINF:-1,IN: Zee Cinema Inter
+http://iptvmedia.live:8080/test-b4fda5/9fee/198607
+#EXTINF:-1,IN: ZEE CINEMA USA
+http://iptvmedia.live:8080/test-b4fda5/9fee/1349
+#EXTINF:-1,IN: ZEE Cinemalu
+http://iptvmedia.live:8080/test-b4fda5/9fee/45504
+#EXTINF:-1,IN: Zee Classic
+http://iptvmedia.live:8080/test-b4fda5/9fee/21578
+#EXTINF:-1,IN: Zee ETC
+http://iptvmedia.live:8080/test-b4fda5/9fee/16959
+#EXTINF:-1,IN: ZEE ETC Masti TV
+http://iptvmedia.live:8080/test-b4fda5/9fee/49552
+#EXTINF:-1,IN: Zee Hindustan
+http://iptvmedia.live:8080/test-b4fda5/9fee/145633
+#EXTINF:-1,IN: Zee Kannada
+http://iptvmedia.live:8080/test-b4fda5/9fee/145631
+#EXTINF:-1,IN: Zee Keralam
+http://iptvmedia.live:8080/test-b4fda5/9fee/193146
+#EXTINF:-1,IN: ZEE LIVING HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196084
+#EXTINF:-1,IN: ZEE Madhya Pradesh Chattisgarh
+http://iptvmedia.live:8080/test-b4fda5/9fee/193026
+#EXTINF:-1,IN: ZEE MARATHI
+http://iptvmedia.live:8080/test-b4fda5/9fee/82646
+#EXTINF:-1,IN: Zee News
+http://iptvmedia.live:8080/test-b4fda5/9fee/5047
+#EXTINF:-1,IN: Zee Odisha
+http://iptvmedia.live:8080/test-b4fda5/9fee/193136
+#EXTINF:-1,IN: ZEE Picchar
+http://iptvmedia.live:8080/test-b4fda5/9fee/193069
+#EXTINF:-1,IN: Zee Punjab Haryana
+http://iptvmedia.live:8080/test-b4fda5/9fee/165797
+#EXTINF:-1,IN: ZEE Punjab Haryana Himachal Pradesh
+http://iptvmedia.live:8080/test-b4fda5/9fee/193094
+#EXTINF:-1,IN: ZEE Punjabi
+http://iptvmedia.live:8080/test-b4fda5/9fee/145630
+#EXTINF:-1,IN: ZEE Rajasthan HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/196085
+#EXTINF:-1,IN: ZEE Rajasthan News
+http://iptvmedia.live:8080/test-b4fda5/9fee/193095
+#EXTINF:-1,IN: ZEE Salaam
+http://iptvmedia.live:8080/test-b4fda5/9fee/45510
+#EXTINF:-1,IN: Zee Salam
+http://iptvmedia.live:8080/test-b4fda5/9fee/16981
+#EXTINF:-1,IN: Zee Sarthak
+http://iptvmedia.live:8080/test-b4fda5/9fee/193135
+#EXTINF:-1,IN: Zee Smile
+http://iptvmedia.live:8080/test-b4fda5/9fee/198615
+#EXTINF:-1,IN: ZEE Talkies HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/16957
+#EXTINF:-1,IN: ZEE TALKIES MARATHI
+http://iptvmedia.live:8080/test-b4fda5/9fee/76973
+#EXTINF:-1,IN: Zee Tamil HD
+http://iptvmedia.live:8080/test-b4fda5/9fee/45505
+#EXTINF:-1,IN: Zee Telugu
+http://iptvmedia.live:8080/test-b4fda5/9fee/21561
+#EXTINF:-1,IN: ZEE Thirai
+http://iptvmedia.live:8080/test-b4fda5/9fee/192963
+#EXTINF:-1,IN: Zee TV APAC
+http://iptvmedia.live:8080/test-b4fda5/9fee/192195
+#EXTINF:-1,IN: ZEE TV FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/1348
+#EXTINF:-1,IN: Zee TV Telegu FHD
+http://iptvmedia.live:8080/test-b4fda5/9fee/192713
+#EXTINF:-1,IN: ZEE TV UK
+http://iptvmedia.live:8080/test-b4fda5/9fee/196086
+#EXTINF:-1,IN: ZEE Uttar Pradesh Uttarakhand
+http://iptvmedia.live:8080/test-b4fda5/9fee/192971
+#EXTINF:-1,IN: zee world
+http://iptvmedia.live:8080/test-b4fda5/9fee/172264
+#EXTINF:-1,IN: ZEE Yuva
+http://iptvmedia.live:8080/test-b4fda5/9fee/45502
+#EXTINF:-1,IN: ZEE YUVA MARATHI
+http://iptvmedia.live:8080/test-b4fda5/9fee/82644
 
-#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000000760000" tvg-name="Cartoon Network"  tvg-logo="https://assets.wxca.cf/images/a/vPVNMZIDmo.png",Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/a/wv/MWTV_LIVETVCHANNEL_10000000000760000?signature=c044c5b965d07e8b1261776ac3878d2c4405031f&unique=940a14a9a22c0003868010a1ec84e278
-https://load.airtelxstream.in/cartoonnetwork/smil:common.smil/manifest.mpd
 
-#EXTINF:1036,Kalvi Tholaikatchi
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kalvitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1037,Vidya
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/vidhya/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1038,ANB NEWS
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/anbnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1039,Nipuna
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/nipuna/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1040,Midnight Secrets
-#EXTVLCOPT:network-caching=1000
-https://fash1.erosnow.com/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
-#EXTINF:1041,MANJARI
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/manjari/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1042,K News 24X7
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/knews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1043,Goodness TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/goodnesstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1044,Balle Balle
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/balleballe/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1045,Subharti TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/subharti/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1046,Public Movies
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/publicmovies/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1047,News J
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/newsj/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1048,Jonack
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/jonack/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1049,Aseervatham TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/aaseervathamtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1050,B4U Kadak
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1051,Ishwar TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ishwar/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1052,Tehzeeb TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tehzeebtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1053,Shubh TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/shubhtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1054,A1 TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1055,TV9 Bharatvarsh
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv9bharatvarsh/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1056,Satsang
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/satsang/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1057,Jan TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/jantv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1058,Network 10
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/network10/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1059,Goodnews TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/goodnewstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1033,Kite Victers (Virtual Classroom)
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/victers/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1034,The QYOU
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
-#EXTINF:1020,Sony Ten 1
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:1012,Fashion TV Paris
-#EXTVLCOPT:network-caching=1000
-https://fash1.erosnow.com/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_s_189_hls.smil/playlist.m3u8
-#EXTINF:1009,First India News Rajasthan
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/firstindianewsrajasthan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:995,FashionTV Global
-#EXTVLCOPT:network-caching=1000
-https://fash1.erosnow.com/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
-#EXTINF:989,Romedy Now
-#EXTVLCOPT:network-caching=1000
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:986,MNX
-#EXTVLCOPT:network-caching=1000
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:987,Movies Now
-#EXTVLCOPT:network-caching=1000
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:983,Mazhavil Manorama
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mazhavilmanorama/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:984,Manorama News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/manoramanews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:985,Mazhavil Manorama HD
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:969,Om Shanti Channel
-#EXTVLCOPT:network-caching=1000
-http://webcast-cloudfront.bkwsu.eu/live/godlywood_1/index.m3u8
-#EXTINF:967,Artist Aloud
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/artist-aloud/playlist.m3u8
-#EXTINF:964,Udaya HD
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/udayahd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:958,Channel WIN
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/channelwin/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:959,Gulistan News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/gulistannews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:954,Times Now
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:946,Surya TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/suryatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:947,Gemini TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/geminitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:948,Udaya Comedy
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/udayacomedy/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:949,Sun Music
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:950,Sun Life
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:951,Sun TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:952,NDTV Good Times
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtvgoodtimestamil/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:953,Amritwani
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/amritwani/playlist.m3u8
-#EXTINF:942,Surya Music
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/suryamusic/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:943,Sun News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sunnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:937,Udaya Movies
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/udayamovies/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:938,KTV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ktv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:933,Udaya Music
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/udayamusic/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:934,Udaya TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/udayatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:929,Sakkat
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/sakkat/playlist.m3u8
-#EXTINF:930,Dhamaal
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/dhamaal/playlist.m3u8
-#EXTINF:931,Adithya TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/adithyatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:927,Bhakti Sagar
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/bhakti-sagar/playlist.m3u8
-#EXTINF:924,SONY YAY
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:919,NDTV Profit Prime
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:917,NDTV Good Times
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:911,North East Live
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/northeastlive/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:909,Asianet News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/asianetnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:900,TV9 Kannada
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv9kannada/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:901,Raj News Kannada
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajnewskannada/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:902,Suvarna News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/suvarnanews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:903,Public TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/publictv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:904,Dighvijay News 24X7
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dighvijaynews24x7/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:905,Raj Musix Kannada
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajmusixkannada/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:906,DD Chandana
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddchandana/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:895,Subhavaartha
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/subhavaartha/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:896,Bhakti TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/bhaktitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:897,DD Saptagiri
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddsaptagiri/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:898,DD Yadagiri
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddyadagiri/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:883,TV9 Telugu News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:884,Sakshi TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sakshitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:885,ABN Telugu News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/abntelugunews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:886,NTV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ntv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:887,T News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:888,TV5 Telugu
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv5telugu/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:889,V6 News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/v6news/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:890,Raj News Telugu
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajnewstelugu/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:891,10TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/10tvtelugunews/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:881,DD Malayalam
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddmalayalam/smil:common.smil/playlist.m3u8?DVR
-
-#EXTINF:879,Kappa TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kappatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:877,Mathrubhumi News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mathrubhuminews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:869,Madha TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/madhatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:870,DD National
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:871,DD Podhigai
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddpodhigai/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:872,Flowers TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/flowerstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:873,Kairali We
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kairaliwe/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:874,Kairali TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kairalitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:875,MediaOne
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mediaone/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:876,Amrita TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/amritatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:866,Angel TV HD
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/angeltv/smil:common.smil/playlist.m3u8
-#EXTINF:867,Isai Aruvi
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/isaiaruvi/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:863,Sathiyam TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sathiyamtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:847,SONY MAX
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sonymax/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:848,Puthu Yugam
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/puthuyugam/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:849,Raj TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:850,Kalaignar TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kalaignartv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:851,Polimer TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/polimertv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:852,Sirippoli
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sirippoli/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:853,Makkal TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/makkaltv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:854,Vasanth TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/vasanthtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:855,Seithigal 24X7
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/seithigal247/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:856,News 7 Tamil
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/news7tamil/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:857,BTV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/btvnews24x7/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:858,Puthiya Thalaimurai
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/puthiyathalaimurai/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:859,Sri Sankara
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/srisankara/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:860,Sangeet Bhojpuri
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sangeetbhojpuri/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:861,Raj News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajnewstamil/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:842,DD Bangla
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddbangla/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:843,News Time Bangla
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/newstimebangla/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:844,Dhoom Music
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:845,Raj Digital Plus
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:837,Kolkata TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kolkatatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:838,Zee Bangla Cinema
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:839,Calcutta News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/calcuttanewscnnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:840,ABP Ananda
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/abpananda/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:835,Zee 24 Ghanta
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zee24ghanta/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:831,Ruposhi Bangla TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:832,Arihant
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/arihant/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:827,Peace of Mind
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/peaceofmind/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:828,Paras Gold
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/parastv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:829,Shubhsandesh TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/shubhsandeshtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:817,Anjan TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/anjantv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:818,Assam Talks
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/assamtalks/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:819,Bhojpuri Cinema
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/bhojpuricinema/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:820,DD Bihar
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddbihar/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:821,God TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/godtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:822,Sanskar
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sanskar/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:823,Jinvani TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/jinvanitv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:824,Kanak News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kanaknews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:825,MH One Shraddha
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mhoneshraddha/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:810,DD Urdu
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddurdu/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:811,Ramdhenu
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ramdhenu/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:812,Rang
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rang/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:813,DY365
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dy365/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:814,Dangal
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dangal/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:815,News Live
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/newslive/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:801,Zee 24 Kalak
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zee24kalak/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:802,DD Girnar
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddgirnar/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:803,MBC TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mbctv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:804,Kalinga TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/kalingatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:805,Zee Odisha
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeeodisha/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:806,Zee Punjab Haryana Himachal
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeepunjabharyanahimachal/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:807,DD Oriya
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddoriya/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:808,DD Kashir
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddkashir/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:799,ABP Asmita
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/abpasmita/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:786,Saam TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/saamtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:787,Sangeet Marathi
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sangeetmarathi/smil:common.smil/playlist.m3u8
-#EXTINF:788,9X Jhakaas
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/9xjhakaas/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:789,Zee 24 Taas
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zee24taas/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:790,DD Sahyadri
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddsahyadri/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:791,9X Tashan
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:792,Pitaara
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/pitaaratv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:793,MH1
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mh1/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:794,DD Punjabi
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddpunjabi/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:795,TV9 Gujarati
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv9gujarati/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:796,Sandesh News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/sandeshnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:797,VTV Gujarati
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/vtvgujarati/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:782,TV9 Marathi
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/tv9marathi/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:783,ABP Majha
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/abpmajha/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:777,E24
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/e24/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:778,DD Kisan
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddkisan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:775,Zee Madhya Pradesh Chhattisgarh
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeempch/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:769,DD Bharati
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddbharati/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:761,Zee Hindustan
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeehindustan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:762,NDTV Good Times
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:763,FTV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ftv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:756,RT
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rt/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:757,WION
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/wion/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:758,Al Jazeera English
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:751,DD Madhya Pradesh
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddmp/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:752,DD UP
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddup/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:753,DD Rajasthan
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddrajasthan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:754,RSTV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/rstv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:749,DD India
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddindia/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:746,DD News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ddnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:743,Zee Business
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeebusiness/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:744,Pop Pataka
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:738,Mirror Now
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:734,Zee Rajasthan News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeerajasthan/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:735,Cinema TV India
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:736,Times Now World
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/timesnowhd/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:728,Divya TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/divyatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:729,Enterr10 Movies
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:730,Dabangg TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/dabanggtv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:731,9X Jalwa
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:726,Zee Bihar Jharkhand
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeebiharjh/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:722,Zee Uttar Pradesh Uttarakhand
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeeup/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:723,Nazrana (Ghazals)
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:724,9XM
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/9xm/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:718,News24
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/news24/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:719,Punjabi Tadka
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
-#EXTINF:713,Mastiii
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:714,Loksabha TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/loksabhatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:715,Kadak Hits
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:716,Dil Se (Romantic Melodies)
-#EXTVLCOPT:network-caching=1000
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:710,NDTV India
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtvindia/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:711,India News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/indianews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:698,NDTV 24x7
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/ndtv24x7/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:699,Zee News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/zeenews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:700,India TV
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/indiatv/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:695,Republic TV Bharat
-#EXTVLCOPT:network-caching=1000
-https://ottrb7.republicworld.com/live/bharat_hls/master.m3u8?e=1619827193&h=560f378170a8b243243357f4953ecc11
-#EXTINF:696,ABP News
-#EXTVLCOPT:network-caching=1000
-https://load.airtelxstream.in/abpnews/smil:common.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_10000000000860000" tvg-name="Pogo"  tvg-logo="https://assets.wxca.cf/images/a/rXGnHZruqn.png",Pogo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/a/wv/MWTV_LIVETVCHANNEL_10000000000860000?signature=847a393d0c478bdcb98559e24933a4c67cba426a&unique=940a14a9a22c0003868010a1ec84e278
-https://load.airtelxstream.in/pogo/smil:common.smil/manifest.mpd
-
-
-#EXTINF:107 tvg-id="MWTV_LIVETVCHANNEL_10000000000860000" tvg-name="Pogo"  tvg-chno="689" tvg-logo="https://assets.wxca.cf/images/a/rXGnHZruqn.png",Pogo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/a/wv/MWTV_LIVETVCHANNEL_10000000000860000?signature=77002ac1af8b4fa3e432086a39653bc5120d9b52&unique=4a158cb7fb020cd17b1515a9da1d7128
-https://load.airtelxstream.in/pogo/smil:common.smil/manifest.mpd
 
 
 
