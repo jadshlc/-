@@ -1583,7 +1583,12 @@ https://bit.ly/2B9teN3sd
 https://bit.ly/2B9tEN1hd
 #EXTINF:-1,TEN 3 HD
 https://bit.ly/2OwtEn3hd
-
+#EXTINF:-1 tvg-id="S_Cricket" tvg-name="S Cricket"  tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://tivimateplaylists.live/scricketnn
+#EXTINF:-1 tvg-id="BeIN_13" tvg-name="BeIN 13"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png",BeIN 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+https://tivimateplaylists.live/bein13-newn
 
 
 #EXTINF:-1, FOX 501
