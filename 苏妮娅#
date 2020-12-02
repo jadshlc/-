@@ -1583,13 +1583,84 @@ https://bit.ly/2B9teN3sd
 https://bit.ly/2B9tEN1hd
 #EXTINF:-1,TEN 3 HD
 https://bit.ly/2OwtEn3hd
-#EXTINF:-1 tvg-id="S_Cricket" tvg-name="S Cricket"  tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://tivimateplaylists.live/scricketnn
-#EXTINF:-1 tvg-id="BeIN_13" tvg-name="BeIN 13"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png",BeIN 13
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-https://tivimateplaylists.live/bein13-newn
 
+
+
+#EXTINF:-1,FOX SPORTS 501 
+http://rktv-ott.com:80/84D4A73721FACA6/47D58645836D328/155929
+#EXTINF:-1,FOX SPORTS 501 
+http://rktv-ott.com:80/84D4A73721FACA6/47D58645836D328/83174
+#EXTINF:-1, WILLOW CRICKET
+http://rktv-ott.com:80/84D4A73721FACA6/47D58645836D328/34483
+#EXTINF:-1,SUPERSPORT CRICKET HD
+http://rktv-ott.com:80/84D4A73721FACA6/47D58645836D328/108908
+
+#EXTINF:-1, WILLOW CRICKET
+http://tvservice.pro:80/102816897422/2075953400/34483
+#EXTINF:-1, SUPERSPORT CRICKET HD
+http://tvservice.pro:80/102816897422/2075953400/108908
+#EXTINF:-1,FOX SPORTS 501 | UHD
+http://tvservice.pro:80/102816897422/2075953400/155929
+#EXTINF:-1, WILLOW CRICKET
+http://tvservice.pro:80/102819837104/7515480209/34483
+#EXTINF:-1, SUPERSPORT CRICKET HD
+http://tvservice.pro:80/102819837104/7515480209/108908
+#EXTINF:-1,FOX SPORTS 501 | UHD
+http://tvservice.pro:80/102819837104/7515480209/155929
+
+#EXTINF:-1,SuperSport Cricket
+http://m3u.area51iptv.site:7899/daniel6w/3lCzQHDOJy/111833
+#EXTINF:-1,WILLOW CRICKET HD
+http://m3u.area51iptv.site:7899/daniel6w/3lCzQHDOJy/4403
+#EXTINF:-1,Fox Cricket 501
+http://m3u.area51iptv.site:7899/daniel6w/3lCzQHDOJy/47370
+#EXTINF:-1,SuperSport Cricket
+http://m3u.area51iptv.site:7899/rovin4d/3hAjfVKYtr/111833
+#EXTINF:-1,WILLOW CRICKET HD
+http://m3u.area51iptv.site:7899/rovin4d/3hAjfVKYtr/4403
+#EXTINF:-1,Fox Cricket 501
+http://m3u.area51iptv.site:7899/rovin4d/3hAjfVKYtr/47370
+
+
+
+#EXTINF:-1,AF: SuperSport Cricket
+http://m3ulink.com:7899/DAzMt7a8E/afwzZ263Y0/111833
+#EXTINF:-1,IN:  WILLOW CRICKET  Backup
+http://m3ulink.com:7899/DAzMt7a8E/afwzZ263Y0/8674
+#EXTINF:-1,IN: WILLOW CRICKET HD
+http://m3ulink.com:7899/DAzMt7a8E/afwzZ263Y0/4403
+#EXTINF:-1,AU: Fox Sports 501 FHD
+http://m3ulink.com:7899/DAzMt7a8E/afwzZ263Y0/48272
+#EXTINF:-1,AF: SuperSport Cricket
+http://m3ulink.com:7899/sfy6rSsM9/ecc3K0Ug22/111833
+#EXTINF:-1,IN:  WILLOW CRICKET  Backup
+http://m3ulink.com:7899/sfy6rSsM9/ecc3K0Ug22/8674
+#EXTINF:-1,IN: WILLOW CRICKET HD
+http://m3ulink.com:7899/sfy6rSsM9/ecc3K0Ug22/4403
+#EXTINF:-1,AU: Fox Sports 501 FHD
+http://m3ulink.com:7899/sfy6rSsM9/ecc3K0Ug22/48272
+
+
+
+
+
+
+
+
+#EXTINF:-1,UK: Sky Sports Cricket FHD
+http://iptvmedia.live:8080/test-f0e715/605c/145801
+#EXTINF:-1,MY: ASTRO CRICKET
+http://iptvmedia.live:8080/test-f0e715/605c/157565
+#EXTINF:-1,US: Willow Cricket HD
+http://iptvmedia.live:8080/test-f0e715/605c/2372
+#EXTINF:-1,ZA: SuperSport Cricket FHD
+http://iptvmedia.live:8080/test-f0e715/605c/11637
+#EXTINF:-1,CAR: SPORTSMAX CRICKET
+http://iptvmedia.live:8080/test-f0e715/605c/197200
+#EXTINF:-1,AR beIN Sports 13 HD
+http://iptvmedia.live:8080/test-f0e715/605c/220076
+#EXTINF:-1,AU: FOX SPORTS 501
+http://iptvmedia.live:8080/test-f0e715/605c/71877
 
 
 
