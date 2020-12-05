@@ -1671,7 +1671,20 @@ http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 http://156.146.43.241:2200/R-EX/HINDI_MOVIES_NOW_HD-in/index.m3u8?token=
 #EXTINF:-1, MNX HD
 http://156.146.43.241:2200/R-EX/HINDI_MNX_HD-in/index.m3u8?token=
-
+#EXTINF:-1 ,Sony Pix HD
+http://185.246.210.55:2200/R-EX/HINDI_SONY_PIX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,Sony BBC Earth HD
+http://185.246.210.55:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,Gemini Music 
+http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MUSIC-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,Gemini Movies HD
+http://89.187.169.203:2200/R-EX/TELUGU_GEMINI_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,Maa Movies HD
+http://89.187.169.203:2200/R-EX/TELUGU_STAR_MAA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ETV HD
+http://89.187.169.203:2200/R-EX/TELUGU_ETV_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 ,ETV Plus
+http://89.187.169.203:2200/R-EX/TELUGU_ETV_PLUS-in/tracks-v1a1/mono.m3u8?token=
 
 
 
