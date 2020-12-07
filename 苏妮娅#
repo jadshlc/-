@@ -4343,9 +4343,8 @@ https://watchindia.net:8443/live/91434/96825/2166.ts
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="AIRIAL TV",xplore HD
-http://iptvmedia.live:8080/test-03eb82/0807/196116
-#EXTINF:-1,IN: & Now
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="AIRIAL TV",& now
+
 http://iptvmedia.live:8080/test-03eb82/0807/82513
 #EXTINF:-1,IN: &FLIX HD
 http://iptvmedia.live:8080/test-03eb82/0807/45506
