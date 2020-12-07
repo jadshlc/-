@@ -14085,39 +14085,8 @@ https://tivimateplaylists.live/hd-fashion
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="RANDOM XSTREAM" ,OSN Ya Hala Cinma HD
-http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN AL YAHALA ALOULA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , OSN AL YAHALA ALOULA
-http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,OSN WWE HD
-http://dx3.gcdn.co/OSNWWE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN WWE HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , OSN WWE1 HD
-http://dx3.gcdn.co/OSNWWE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,OSN ANIMAL PLANET HD
-http://digitalxpress.gcdn.co/live1/OSNANIMALPLANET/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,OSN ART Aflam 1
-http://digitalxpress.gcdn.co/live1/artaflam1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , OSN ART Cinema
-http://digitalxpress.gcdn.co/live1/osnartcinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies FIRST HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , OSN Movies FIRST HD
-http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , OSN Movies HD
-http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 Premiere" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , beIN Movies 1 Premiere
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , beIN Movies 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,beIN Movies 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,beIN Movies 4 Family
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" , beIN Drama
-http://digitalxpress.gcdn.co/live1/BeinDramaHD1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cartoon Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,beIN Cartoon Network HD
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="RANDOM XSTREAM" ,|MBC| 1 FHD
 
-
-#EXTINF:-1 ,|MBC| 1 FHD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
 #EXTINF:-1 ,|MBC| 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
@@ -14146,67 +14115,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 ,|MBC| Panorama FHD
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
 
-#EXTINF:0 ,  MBC Varity 
-http://digitalxpress.gcdn.co/live1/mbcvarietyhd-AR/index.m3u8
-#EXTINF:-1 , MBC 1 
-http://digitalxpress.gcdn.co/live1/mbc1/index.m3u8
-#EXTINF:-1 ,MBC 1 HD
-http://digitalxpress.gcdn.co/MBC1_HD/index.m3u8
-#EXTINF:-1 ,MBC 2 
-http://digitalxpress.gcdn.co/live1/mbc2/index.m3u8
-#EXTINF:-1 ,MBC 2 HD
-http://digitalxpress.gcdn.co/live1/MBC2_HD/index.m3u8
-#EXTINF:-1 , MBC 3
-http://digitalxpress.gcdn.co/live1/mbc3/index.m3u8
-#EXTINF:-1 , MBC 3 HD
-http://digitalxpress.gcdn.co/live1/MBC3_HD/index.m3u8
-#EXTINF:-1 , MBC 4 
-http://digitalxpress.gcdn.co/live1/mbc4/index.m3u8
-#EXTINF:-1 MBC 4 HD
-http://digitalxpress.gcdn.co/live1/MBC4_HD/index.m3u8
-#EXTINF:-1 ,MBC Action 
-http://digitalxpress.gcdn.co/live1/mbc_action/index.m3u8
-#EXTINF:-1 ,MBC Action HD
-http://digitalxpress.gcdn.co/live1/MBC_ACTION_HD/index.m3u8
-#EXTINF:-1 ,MBC Max
-#EXTINF:-1 ,B4u
-http://digitalxpress.gcdn.co/live1/OSNYAHALA/index.m3u8
-#EXTINF:-1 , OSN WWE 
-http://dx3.gcdn.co/OSNWWE/index.m3u8
-#EXTINF:-1 ,OSN kids
-http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
-#EXTINF:-1 ,OSN Movies 
-http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
-#EXTINF:-1 ,OSN: Star Movies
-http://digitalxpress.gcdn.co/live1/osnstarmovies/index.m3u8
-#EXTINF:-1 ,beIN Movies 1 
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD1/index.m3u8
-#EXTINF:-1 ,beIN Movies 2 
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-#EXTINF:-1 ,beIN Movies 3 
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-#EXTINF:-1 ,beIN Movies 4 
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-#EXTINF:-1 ,beIN Series 1 
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD1/index.m3u8
-#EXTINF:-1 , beIN Series 2 
-http://digitalxpress.gcdn.co/live1/BEINSERIESHD2/index.m3u8
-#EXTINF:-1 ,beIN Boomerang 
-http://digitalxpress.gcdn.co/live1/beinboomeranghd/index.m3u8
-#EXTINF:-1 , beIN Cartoon Network
-http://digitalxpress.gcdn.co/live1/BEINCARTOONNETWORK/index.m3u8
-#EXTINF:-1 , be junior
-http://digitalxpress.gcdn.co/live1/beinbejunior/index.m3u8
-#EXTINF:-1 ,Braem
-http://digitalxpress.gcdn.co/live1/beinbaraem/index.m3u8
-#EXTINF:-1 , Bein j
-http://digitalxpress.gcdn.co/live1/beinjeemhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , BEIN AMC
-http://digitalxpress.gcdn.co/live1/BEINAMCHD/index.m3u8
-#EXTINF:-1 , bein fatafeathd
-http://digitalxpress.gcdn.co/live1/beinfatafeathd/index.m3u8
-#EXTINF:-1 , bein Gourmet
-http://digitalxpress.gcdn.co/live1/beingourmet/index.m3u8
+
 
 #EXTINF:-1 ,Dubai Sport 1 FHD
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
@@ -14245,29 +14154,6 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 ,YAS 
 https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,Alkass 1 
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vGlwiab/master570.m3u8
-#EXTINF:-1 ,Alkass 2
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyia/master570.m3u8
-#EXTINF:-1 ,Alkass 4 
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjin/master570.m3u8
-#EXTINF:-1 ,Alkass 5 
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Ztddua/master570.m3u8
-#EXTINF:-1 ,Alkass online 
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u8
-#EXTINF:-1 ,Oman tv sport
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
