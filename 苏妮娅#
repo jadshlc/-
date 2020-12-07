@@ -13979,9 +13979,7 @@ http://m3u.area51iptv.site:7899/hdue38/F5PLdZy36P/119
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="FOUR K ",STAR PLUS HD
-http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
-#EXTINF:-1,Colors Bangla HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="FOUR K ",COLORS BANGLA HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1,Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
@@ -14001,113 +13999,19 @@ http://tvuk3.technohaat.com:6636/zeecinemahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 ,NEWS 18 BIHAR/JHARKHAND
 https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_5_av-p.m3u8
 
-#EXTINF:-1,Star Sports 1 HD
-http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8
 
-#EXTINF:-1,Star Sports 2 HD
-http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8
-
-#EXTINF:-1,Star Sports Hindi HD
-http://dx3.gcdn.co/STARSPORTS3/index.m3u8
-#EXTINF:-1 ,Star GOLD SELECT HD
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-#EXTINF:-1 ,ZEETV HD
-http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
-#EXTINF:-1 ,COLORS HD 
-http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1 ,SONY sabHD
-http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
-#EXTINF:-1 ,OSN WWE  HD
-http://dx3.gcdn.co/OSNWWE/index.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
-#EXTINF:0,Miniplex HD
-http://dx3.gcdn.co/hindi-MINIPLEXHD/index.m3u8
 #EXTINF:-1 ,TEN 1HD
 https://bit.ly/3n7eey5
-#EXTINF:-1,TEN2HD
-http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TEN3HD
-http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TEN 1
-http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DDNATIONAL
-http://dx3.gcdn.co/hindi-UTVMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors Cineplex HD
-http://dx3.gcdn.co/hindi-COLORSCINEPLEXHD/index.m3u8
-#EXTINF:-1,ZEE5 THEATRE
-http://dx3.gcdn.co/hindi-UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1,Sony Max 2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
-#EXTINF:-1,Sony Pal SD
-http://dx3.gcdn.co/hindi-SONYPAL/index.m3u8
-#EXTINF:-1,STAR UTSAV HD
-http://dx3.gcdn.co/hindi-STARUTSAVHD/index.m3u8
-#EXTINF:-1,Star Bharat HD
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
-#EXTINF:-1,Star Plus HD(Backup)
-http://dx3.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD (Backup)
-http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
-#EXTINF:-1,Utv HD
-http://dx3.gcdn.co/hindi-UTVACTION/index.m3u8
-#EXTINF:-1,Sony BBC Earth HD Hindi HD
-http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
-#EXTINF:-1,Nick Junior
-http://dx3.gcdn.co/kids-NICKJR/index.m3u8
-#EXTINF:-1,ZEE ANMOL
-http://dx3.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Pogo Hindi
-http://dx3.gcdn.co/kids-POGO/index.m3u8
-#EXTINF:-1,Music India
-http://dx3.gcdn.co/hindi-MUSICINDIA/index.m3u8
-#EXTINF:-1,BEINSPORTS1FR
-http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
-#EXTINF:-1,BEINSPORTS2FR
-http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8
-#EXTINF:-1,BEINSPORTSES
-http://dx3.gcdn.co/BEINSPORTSES/index.m3u8
-#EXTINF:-1,BEINSPORTSMAX4
-http://dx3.gcdn.co/BEINSPORTSMAX4/index.m3u8
-#EXTINF:-1,BEINSPORTSMAX5
-http://dx3.gcdn.co/BEINSPORTSMAX5/index.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,Star Gold 2
-https://tivimateplaylists.live/sg250fps
 #EXTINF:-1 ,MOVIES NOW
 https://tivimateplaylists.live/movies-now
-#EXTINF:-1 ANIMAL PLANET
-https://tivimateplaylists.live/ap50fps
-#EXTINF:-1,Discovery SCIENCE
-https://tivimateplaylists.live/ds50fps
-#EXTINF:-1, DISNEY Jr.
-https://tivimateplaylists.live/djr50fps
-#EXTINF:-1 HUNGAMA TV
+
+
+
+#EXTINF:-1 ,HUNGAMA TV
 https://tivimateplaylists.live/hung50fps
-#EXTINF:-1,NICK
-https://tivimateplaylists.live/nik50fps
-#EXTINF:-1 ,NICK Jr
-https://tivimateplaylists.live/nikjr50fps
+
 #EXTINF:-1 ,POGO
 https://tivimateplaylists.live/pog50fps
 #EXTINF:-1,DD Retro
@@ -14116,14 +14020,11 @@ https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
 https://tivimateplaylists.live/e-24
 #EXTINF:-1,Firangi
 https://tivimateplaylists.live/Firangi
-#EXTINF:-1 ,Sony Aath
-https://tivimateplaylists.live/Sony-aath
+
 #EXTINF:-1,Shemaroo Tv
 https://tivimateplaylists.live/shemaroo
-#EXTINF:-1,BBC Earth
-https://tivimateplaylists.live/sonybbcerth
-#EXTINF:-1,Food Network (Dual Audio)
-https://tivimateplaylists.live/Food-Network
+
+
 #EXTINF:-1,Shemaroo Kids
 https://tivimateplaylists.live/smrukds
 #EXTINF:-1,Sony Yay
