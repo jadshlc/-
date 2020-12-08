@@ -13036,9 +13036,8 @@ http://m3ulink.com:7899/qh5G8HMte/h26D9Dcfh8/119
 
 
 
-#EXTINF:-1 tvg-id=""  group-title="PLATINUM TV",TEN 1 HD
-http://m3u.area51iptv.site:7899/harinaam5/q9HARWx001/54055
-#EXTINF:-1,IN: SONY SETMAX HD
+#EXTINF:-1 tvg-id=""  group-title="PLATINUM TV",MAX HD
+
 http://m3u.area51iptv.site:7899/harinaam5/q9HARWx001/54054
 #EXTINF:-1,IN: STAR PLUS HD
 http://m3u.area51iptv.site:7899/harinaam5/q9HARWx001/54052
