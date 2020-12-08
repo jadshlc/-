@@ -1598,11 +1598,8 @@ https://bit.ly/2OwtEn3hd
 
 
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="GRAVITY TV",xpolre hd m
-http://iptvmedia.live:8080/test-e35953/58bd/196116
-#EXTINF:-1,IN: & Now
-http://iptvmedia.live:8080/test-e35953/58bd/82513
-#EXTINF:-1,IN: &FLIX HD
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="GRAVITY TV",& FLIX HD
+
 http://iptvmedia.live:8080/test-e35953/58bd/45506
 #EXTINF:-1,IN: &PICTURES HD
 http://iptvmedia.live:8080/test-e35953/58bd/16958
